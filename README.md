@@ -1,4 +1,10 @@
 # Website-Development-Catalogue-Management-System
+
+Copyright Jahnavi Nuthalapati.
+
+Copying or uploading the same content on other websites is strictly prohibited
+
+
 With the implementation of dynamic website named Catalogue Management System, the main aim is to provide a hassle free course selection for students for upcoming semesters where an advisor/staff will make necessary changes to the courses with respective professor’s consent and present them officially to students so they can choose and enroll for the courses after discussing with advisors.
 
 HTML, CSS, JavaScript, PHP, Wordpress, Bootstrap, MySQL, LARAVEL were used to implement the project. To clearly understand it, kindly refer to project reports.
